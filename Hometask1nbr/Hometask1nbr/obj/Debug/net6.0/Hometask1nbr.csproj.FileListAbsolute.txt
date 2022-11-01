@@ -1,0 +1,15 @@
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\bin\Debug\net6.0\Hometask1nbr.exe
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\bin\Debug\net6.0\Hometask1nbr.deps.json
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\bin\Debug\net6.0\Hometask1nbr.runtimeconfig.json
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\bin\Debug\net6.0\Hometask1nbr.dll
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\bin\Debug\net6.0\Hometask1nbr.pdb
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.csproj.AssemblyReference.cache
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.AssemblyInfoInputs.cache
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.AssemblyInfo.cs
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.csproj.CoreCompileInputs.cache
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.dll
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\refint\Hometask1nbr.dll
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.pdb
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\Hometask1nbr.genruntimeconfig.cache
+C:\Users\Aynura\Desktop\Folder3\Hometask1nbr\Hometask1nbr\obj\Debug\net6.0\ref\Hometask1nbr.dll
